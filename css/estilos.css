@@ -1,0 +1,48 @@
+img
+{
+	width: 250px;
+	padding: 10px;
+}
+.main-menubar
+{
+	width:40em;
+}
+.hide
+{
+	font-size: 100px;
+}
+.text-white
+{
+	font-size: 18px;
+}
+.img-fluid
+{
+	width: 30em;
+}
+.l
+{
+	display: flex;
+	justify-content: center;
+	font-size: 35px;
+	color: black;
+}
+.i
+{
+	display: flex;
+	justify-content: center;
+}
+.m
+{
+   border-image-width:50px;
+   border-image-height:50px; 
+}
+.ñ
+{
+	display: flex;
+	justify-content: center;
+}
+.p
+{
+	width:310px;
+}
+
